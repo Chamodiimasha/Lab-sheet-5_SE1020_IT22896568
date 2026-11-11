@@ -1,0 +1,5 @@
+# Ignore Question 01 and Question 02 files for this repository
+PizzaOrder.java
+Main.java
+Question02_Answers.md
+*.class
